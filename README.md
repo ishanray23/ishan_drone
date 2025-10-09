@@ -31,3 +31,5 @@ Reads MPU6050 data for real-time attitude feedback.
 Adjusts motor PWM signals for pitch, roll, and yaw correction.
 
 Activates/deactivates solenoid using PWM pin D5.
+
+Disclaimer: Parts of this project were assisted by AI tools
